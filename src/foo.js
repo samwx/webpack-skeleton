@@ -1,5 +1,5 @@
 let WebpackSkeleton = {
-  hi: 'Hello, world!'
+  hi: 'Hello, world! djsoiajd'
 };
 
 export default WebpackSkeleton;
